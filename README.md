@@ -47,6 +47,4 @@
 
 **Lizenz**
 
-- Noch nicht festgelegt. Tragt hier die gewünschte Lizenz ein (z. B. MIT, Apache-2.0).
-
-Wenn du möchtest, ergänze ich die README noch um: Beispiel-Daten, Screenshots oder ein kurzes Architektur-Diagramm.
+- Noch nicht festgelegt.
